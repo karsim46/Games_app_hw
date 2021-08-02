@@ -1,5 +1,5 @@
 # Games_app_hw
-Questions
+Question number: Answers.
 1. The Games router
 2. The folders run in hierarchy, client side is responsibe for the UX part, creating the game, being able to delete a game. the server is reponsible for the back end.
 3. The server is responsible for comunicating with mongo.db. error pages for when games dont load, accessing the games.
